@@ -1,0 +1,10 @@
+D:\workflow\keras-yolo3-master/VOCdevkit/VOC2007/JPEGImages/fyr20190628-2_Series019_new.jpg 85,55,295,385,0 1,615,295,722,0 65,677,492,805,0 518,264,807,561,0 760,648,1022,820,0
+D:\workflow\keras-yolo3-master/VOCdevkit/VOC2007/JPEGImages/fyr20190628-2_Series051_new.jpg 546,497,779,681,0 102,753,430,1011,0 204,258,369,532,0 675,348,893,564,0
+D:\workflow\keras-yolo3-master/VOCdevkit/VOC2007/JPEGImages/fyr20190628-2_Series057_new.jpg 185,492,356,774,0 318,476,514,747,0 460,463,650,625,0 294,87,464,385,0 1,62,294,331,0 646,153,868,361,0 604,291,736,485,0 706,374,957,606,0
+D:\workflow\keras-yolo3-master/VOCdevkit/VOC2007/JPEGImages/fyr20190628-2_Series070_new.jpg 43,498,149,723,0 151,733,342,844,0 139,591,256,763,0 233,542,366,711,0 362,400,526,645,0 468,546,763,707,0 594,288,803,497,0 729,184,961,358,0
+D:\workflow\keras-yolo3-master/VOCdevkit/VOC2007/JPEGImages/fyr20190628-2_Series071_new.jpg 488,269,771,438,0 346,575,490,749,0 4,876,267,1008,0 347,810,533,960,0 183,692,385,826,0 687,425,979,628,0 468,780,711,826,0 772,623,894,893,0
+D:\workflow\keras-yolo3-master/VOCdevkit/VOC2007/JPEGImages/Project_Series011_new.jpg 798,595,986,860,0
+D:\workflow\keras-yolo3-master/VOCdevkit/VOC2007/JPEGImages/Project_Series014_new.jpg 596,505,872,765,0 141,108,401,399,0
+D:\workflow\keras-yolo3-master/VOCdevkit/VOC2007/JPEGImages/Project_Series018_new.jpg 142,109,333,333,0 131,338,430,596,0
+D:\workflow\keras-yolo3-master/VOCdevkit/VOC2007/JPEGImages/Project_Series052_new.jpg 260,129,769,499,0
+D:\workflow\keras-yolo3-master/VOCdevkit/VOC2007/JPEGImages/Project_Series070_new.jpg 190,607,396,830,0 651,487,905,705,0
